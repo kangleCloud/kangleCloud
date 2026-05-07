@@ -1,5 +1,3 @@
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
-
 <h1 align="center">Hi, I'm Znk 👋</h1>
 
 <p align="center">
@@ -84,8 +82,7 @@ AI Agent Engineering
 ### GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kangleCloud&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangleCloud&layout=compact&theme=github_dark&hide_border=true" />
+
 </p>
 
 ---
